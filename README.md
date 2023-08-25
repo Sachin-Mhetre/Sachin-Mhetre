@@ -23,7 +23,7 @@ When not talking to machines, I enjoy contemplating the meaning of bytes.</div>
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.instagram.com/_sachin_4141/?hl=en" target="_blank">
+<a href="https://www.instagram.com/_sachin_4141/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <!-- <a href="https://twitter.com/https://twitter.com/ydnysh" target="_blank">
