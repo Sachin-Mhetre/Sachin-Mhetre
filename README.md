@@ -23,7 +23,7 @@ When not talking to machines, I enjoy contemplating the meaning of bytes.</div>
 
 ## Connect with me  
 <div align="center">
-<a href="(https://www.instagram.com/_sachin_4141/?hl=en)" target="_blank">
+<a href="https://www.instagram.com/_sachin_4141/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <!-- <a href="https://twitter.com/https://twitter.com/ydnysh" target="_blank">
@@ -32,13 +32,13 @@ When not talking to machines, I enjoy contemplating the meaning of bytes.</div>
 <a href="https://github.com/https://github.com/Sachin-Mhetre" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="(https://hashnode.com/@SachinMhetre)" target="_blank">
+<a href="https://hashnode.com/@SachinMhetre" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <!-- <a href="https://www.kaggle.com/https://www.kaggle.com/yadnyeshchakane" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a> -->
-<a href="(https://www.linkedin.com/in/sachin-mhetre-382039233/)" target="_blank">
+<a href="https://www.linkedin.com/in/sachin-mhetre-382039233/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
