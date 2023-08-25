@@ -29,12 +29,12 @@ When not talking to machines, I enjoy contemplating the meaning of bytes.</div>
 <!-- <a href="https://twitter.com/https://twitter.com/ydnysh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://github.com/https://github.com/Sachin-Mhetre" target="_blank">
+<a href="https://github.com/Sachin-Mhetre" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@SachinMhetre" target="_blank">
+<!-- <a href="https://hashnode.com/@SachinMhetre" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://www.kaggle.com/https://www.kaggle.com/yadnyeshchakane" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a> -->
