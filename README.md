@@ -44,7 +44,7 @@ When not talking to machines, I enjoy contemplating the meaning of bytes.</div>
 </div>  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YadnyeshChakane&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sachin-Mhetre&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Languages and Tools:</h3>
